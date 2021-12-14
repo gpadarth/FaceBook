@@ -1,0 +1,6 @@
+Hello Java Program
+public statuic void(){
+system.out.println("Hello This is my Program");
+}
+:wq!
+
